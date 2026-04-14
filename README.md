@@ -300,6 +300,8 @@ The full implementation is available in the project notebook:
 
 This notebook includes preprocessing, model training, evaluation, threshold optimization, and interpretability outputs used throughout this project.
 
+> Note: If GitHub does not render the notebook preview correctly, the notebook can still be downloaded and opened locally in Jupyter or VS Code. The main outputs and visuals are also included throughout this README for easy review.
+
 ---
 
 ## Repository Contents
