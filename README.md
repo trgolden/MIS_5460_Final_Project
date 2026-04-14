@@ -296,7 +296,7 @@ Even with those limitations, the project provides a strong example of model comp
 
 The full implementation is available in the project notebook:
 
-- [Loan_approval-PLACEHOLDER.ipynb](Loan_approval-PLACEHOLDER.ipynb)
+- [Loan_approval_classification.ipynb](Loan_approval_classification.ipynb)
 
 This notebook includes preprocessing, model training, evaluation, threshold optimization, and interpretability outputs used throughout this project.
 
@@ -304,7 +304,7 @@ This notebook includes preprocessing, model training, evaluation, threshold opti
 
 ## Repository Contents
 
-- `Loan_approval-PLACEHOLDER.ipynb` — main notebook with code and outputs
+- `Loan_approval_classification.ipynb` — main notebook with code and outputs
 - `loan_data.csv` — source dataset
 - `README.md` — project summary and presentation narrative
 - `images/` — figures used in the report and GitHub presentation
